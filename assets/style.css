@@ -6,3 +6,5 @@
    TODO: reconciliar --archive-recovery-key com o cofre da migração.
 */
 :root{--archive-recovery-key:"AURORA-1998-ARCHIVE";--archive-revision:"04.06"}
+
+.danger-text{color:#a34f38}.danger-button{background:#a34f38}.danger-button:hover{background:#813c2a}
