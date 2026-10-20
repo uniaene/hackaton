@@ -1,0 +1,15 @@
+{
+  "archive": "Aurora Mail / registro auxiliar",
+  "revision": "04.06",
+  "recovery": {
+    "seed": "AURORA-1998-ARCHIVE",
+    "seed_status": "formato reconhecido; validação pendente",
+    "fragment_count": 3,
+    "local_vault": "referência removida da distribuição"
+  },
+  "migration_notes": [
+    "A limpeza foi executada na revisão 06.",
+    "A auditoria não confirma a eliminação de cópias anteriores.",
+    "Uma referência válida nem sempre leva a uma chave válida."
+  ]
+}
